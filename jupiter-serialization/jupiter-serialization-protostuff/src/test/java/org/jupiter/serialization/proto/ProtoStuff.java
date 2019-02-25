@@ -10,6 +10,8 @@ public class ProtoStuff {
 
         System.out.println("init");
 
+        System.out.println("start");
+
 
     }
 
