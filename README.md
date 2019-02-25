@@ -5,7 +5,7 @@
 [![Total Alerts](https://img.shields.io/lgtm/alerts/g/fengjiachun/Jupiter.svg?logo=lgtm&logoWidth=18)](https://lgtm.com/projects/g/fengjiachun/Jupiter/alerts)
 
 #### Jupiter:
-- Jupiter是一款性能非常不错的, 轻量级的分布式服务框架
+- Jupiter是一款性能非常不错的, 轻量级的分布式服务框架---嗯～很好……
 
 #### Jupiter Architecture:
 
